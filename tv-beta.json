@@ -1,9 +1,9 @@
 {
-  "tag_name": "v2.4.6-beta",
+  "tag_name": "v2.4.7-beta",
   "assets": [
     {
-      "browser_download_url": "https://github.com/minyoad/mytv-android/releases/download/v2.4.6-beta/mytv-android-tv-2.4.6-beta-all-sdk21.apk"
+      "browser_download_url": "https://github.com/minyoad/mytv-android/releases/download/v2.4.7-beta/mytv-android-tv-2.4.7-beta-all-sdk21.apk"
     }
   ],
-  "body": "**Full Changelog**: https://github.com/minyoad/mytv-android/compare/vv2.4.6-beta...v2.4.6-beta"
+  "body": "**Full Changelog**: https://github.com/minyoad/mytv-android/compare/v2.4.6-beta...v2.4.7-beta"
 }
